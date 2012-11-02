@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alex Jordan -- concept/code -- @strugee2 (twitter) / @strugee (github)
+	Jackson de Campos -- code -- @jacksondc (github)
+
+# THANKS
+
+    GitHub, for hosting this competition!
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
