@@ -32,13 +32,21 @@
 		<![endif]-->
 		
 		<div id="container">
-			<div id="gameframe">
+			<div id="gamemenu">
 				<h1 id="gametitle" class="font-effect-anaglyph">forked</h1>
 				<p class="gamemodelabel">Story Mode</p>
-				<p class="gamemodelabel">Puzzle Mode<p>
-				<p class="gamemodelabel">Action Mode<p>
+				<p class="gamemodelabel"><a href="javascript:void(0);" onclick="initializepuzzlelevels();">Puzzle Mode</a></p>
+				<p class="gamemodelabel">Action Mode</p>
 			</div> <!-- /gameframe -->
 
+			<div id="levelselect" hidden>
+				Loading
+			</div>
+			
+			<div id="gameframe" hidden>
+				Loading
+			</div>
+			
 			<footer>
 				<p>INSERT SOMETHING HERE. LIKE A LICENSE OR SOMETHING</p>
 			</footer>
