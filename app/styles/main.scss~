@@ -1,7 +1,0 @@
-@import 'sass-bootstrap/lib/bootstrap';
-@import 'http://fonts.googleapis.com/css?family=Anaheim&effect=anaglyph';
-
-.hero-unit {
-    margin: 50px auto 0 auto;
-    width: 300px;
-}
